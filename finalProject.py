@@ -72,6 +72,4 @@ class Bank(User):
 # Object
 obj = Bank('mezo',21,'Male')
 obj.deposit(100)
-obj.withdarw(500)
-
-
+obj.withdarw(50)
